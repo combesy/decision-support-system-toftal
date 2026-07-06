@@ -58,7 +58,7 @@ The project follows the **CRISP-DM** methodology:
 
 # Executive Dashboard
 
-> **Dashboard preview will be added soon.**
+![Executive Dashboard](dashboards/executive-dashboard.png)
 
 The Executive Dashboard provides a complete overview of the company's commercial performance through interactive visualizations and strategic Key Performance Indicators (KPIs).
 
