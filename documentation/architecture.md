@@ -10,7 +10,11 @@ The architecture integrates data collection, preparation, analytical modeling an
 
 # Architecture Overview
 
-> **Architecture diagram will be added here.**
+## Architecture Diagram
+
+![Solution Architecture](../images/solution-architecture.png)
+
+*Figure 1. Decision Support System Architecture for TOFTAL Technologies.*
 
 ---
 
