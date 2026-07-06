@@ -1,126 +1,149 @@
 # 📊 Decision Support System for TOFTAL Technologies
 
-## Overview
+> **Business Intelligence Project | Power BI | SQL | CRISP-DM | E-commerce Analytics**
 
-This project presents the design and implementation of a complete Business Intelligence decision support system developed for TOFTAL Technologies as part of my Master's Degree in Business Intelligence & Big Data.
+## Project Overview
 
-The objective was to transform raw e-commerce data into meaningful business insights that support strategic decision-making.
+This project presents the design and implementation of a **Business Intelligence Decision Support System** for **TOFTAL Technologies**, developed as part of my Master's Degree in **Business Intelligence & Big Data**.
 
----
-
-## Business Context
-
-TOFTAL Technologies operates in the e-commerce sector and generates valuable commercial data from its online activities.
-
-Despite the availability of this data, decision-makers lacked an integrated solution capable of monitoring sales performance, customer behavior, product profitability, and promotional effectiveness.
-
-This project addresses these challenges through a complete Business Intelligence solution.
+The objective of this project is to transform e-commerce operational data into actionable business insights through interactive dashboards, KPI monitoring, customer analytics, and strategic recommendations to support decision-making.
 
 ---
 
-## Objectives
+# Business Context
 
-- Design a Business Intelligence decision support system.
-- Build interactive Power BI dashboards.
+TOFTAL Technologies operates in the e-commerce sector and generates a large amount of sales and customer data.
+
+The company needed a centralized Business Intelligence solution capable of monitoring commercial performance, identifying growth opportunities, analyzing customer behavior, and supporting strategic decisions.
+
+To address these needs, a complete Business Intelligence Decision Support System was designed and implemented.
+
+---
+
+# Project Objectives
+
+- Design a Business Intelligence Decision Support System.
+- Transform operational data into strategic information.
+- Develop interactive Power BI dashboards.
+- Monitor business performance through KPIs.
 - Analyze customer purchasing behavior.
-- Evaluate promotional campaign performance.
-- Support strategic business decision-making.
+- Evaluate commercial performance.
+- Support data-driven decision-making.
 
 ---
 
-## Methodology
+# Methodology
 
 The project follows the **CRISP-DM** methodology:
 
-1. Business Understanding
-2. Data Understanding
-3. Data Preparation
-4. Data Modeling
-5. Dashboard Development
-6. Business Evaluation
+- Business Understanding
+- Data Understanding
+- Data Preparation
+- Data Modeling
+- Dashboard Development
+- Business Evaluation
 
 ---
 
-## Tools & Technologies
+# Technologies Used
 
-- Power BI
-- SQL
-- Microsoft Excel
-- Shopify
-- CRISP-DM
-
----
-
-## Key Analyses
-
-### 📈 Executive Dashboard
-
-Provides a global overview of business performance through strategic KPIs.
+| Category | Technology |
+|-----------|------------|
+| Business Intelligence | Power BI |
+| Database | SQL |
+| Data Sources | Shopify, Microsoft Excel |
+| Methodology | CRISP-DM |
 
 ---
 
-### 👥 Customer Segmentation (RFM)
+# Executive Dashboard
 
-Segments customers according to **Recency**, **Frequency**, and **Monetary Value** to identify loyal customers and customers at risk of churn.
+> **Dashboard preview will be added soon.**
+
+The Executive Dashboard provides a complete overview of the company's commercial performance through interactive visualizations and strategic Key Performance Indicators (KPIs).
+
+### Key Performance Indicators
+
+- Total Revenue
+- Total Margin
+- Margin Rate
+- Quantity Sold
+- Sales Target
+- Target Gap
+
+### Business Analyses
+
+- Monthly Revenue Trend
+- Revenue by Product Category
+- Top Performing Products
+- Pareto Analysis
+- Margin by Category
+- Top Customers
+- Sales Channel Distribution
+- Product Performance Analysis
 
 ---
 
-### 📊 Sales Performance
+# Customer Analytics
 
-Monitors sales evolution, revenue, top-performing products, and sales channels.
-
----
-
-### 💰 Promotion ROI Analysis
-
-Measures the effectiveness and profitability of promotional campaigns.
+The project includes customer behavior analysis to support better commercial decision-making and customer management.
 
 ---
 
-## Business Value
+# Business Value
 
 This solution enables decision-makers to:
 
-- Monitor business performance in real time.
-- Improve customer retention strategies.
-- Optimize promotional investments.
+- Monitor business performance.
+- Identify the most profitable products.
+- Analyze customer behavior.
+- Compare sales channels.
+- Monitor strategic KPIs.
 - Support data-driven decisions.
 
 ---
 
-## Repository Structure
+# Business Recommendations
+
+Based on the analyses performed, strategic recommendations were proposed to improve commercial performance, customer retention, and decision-making.
+
+---
+
+# Future Improvements
+
+Future developments may include:
+
+- Data Warehouse implementation
+- Predictive Analytics
+- Sales Forecasting
+- Machine Learning integration
+- Automated dashboard refresh
+
+---
+
+# Repository Structure
 
 ```text
 decision-support-system-toftal/
 │
 ├── README.md
-├── documentation/
 ├── dashboards/
-├── data-model/
+├── documentation/
 ├── images/
+├── data-model/
 └── sql/
 ```
 
 ---
 
-## Future Improvements
-
-- Develop a Data Warehouse architecture.
-- Integrate predictive analytics models.
-- Implement sales forecasting.
-- Automate dashboard refresh processes.
-- Expand customer behavior analytics.
-
----
-
-## Author
+# Author
 
 **Combe Sy**
 
-**Business Intelligence Analyst | Data Analyst**
+Business Intelligence Analyst | Data Analyst
 
 📍 Dakar, Senegal
 
 🔗 LinkedIn: https://www.linkedin.com/in/combesy
 
-📧 Email: *(Add your professional email here)*
+📧 Email: sycombe2019@gmail.com
